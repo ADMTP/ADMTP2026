@@ -79,7 +79,7 @@ We are delighted to announce the next annual workshop of the joint working group
 
 **Short course:** There will be pre-workshop short courses on <ul> <li>*Practitioner’s View of Adaptive Designs* and </li>  <li>*Designing better trials: Advanced randomization methods for modern clinical research*</li> on 1st June 2026, see [**here**](https://admtp.github.io/ADMTP2026/course.html). </ul>
 
-**Abstract submission:** Abstract submissions will start from mid September 2025.
+**Abstract submission:** Abstract submissions have now started. The last date for submission is January 31, 2026. 
 
 **Registration:** Registration will open from January 5, 2026.
 
@@ -116,5 +116,6 @@ $$\\[0.1cm]$$
     
 </div>
 ```
+
 
 
