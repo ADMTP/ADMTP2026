@@ -15,7 +15,7 @@ h1.title {
 </style>
 ```
 
-Please use the [link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h5U3mMXPcnlPhMCUpBSHk0tURU82MTFQVzhOMDlRR0pIOE9BRFZQTU1YMy4u) or scan the QR code given below to submit your abstract.
+Please use the [link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h5U3mMXPcnlPhMCUpBSHk0tURU82MTFQVzhOMDlRR0pIOE9BRFZQTU1YMy4u) or scan the QR code given below to submit your abstract. Authors are kindly requested to keep abstracts within a maximum of <b>300 words</b>. 
 
 
 <br/>
