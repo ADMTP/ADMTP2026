@@ -53,6 +53,4 @@ Course 2: Designing better trials: Advanced randomization methods for modern cli
 
 **Registration**: 
 Registration for the short course will open with workshop registration.
-
  
-
