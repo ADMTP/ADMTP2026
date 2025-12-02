@@ -36,7 +36,7 @@ Course 1: Practitioner’s View of Adaptive Designs
 Course 2: Designing better trials: Advanced randomization methods for modern clinical research 
 </h3>
 
-**Course Tutors**: Randomisation Working Group lead by [Alex Sverdlov](https://www.linkedin.com/in/alex-sverdlov-a403167/) (Novartis)
+**Course Tutors**: [Dr. Alex Sverdlov](https://www.linkedin.com/in/alex-sverdlov-a403167/)  (Novartis), [Dr. Yevgen Ryeznik](https://www.linkedin.com/in/yevgen-ryeznik/) (Uppsala  University) and [Dr. Diane Uschner](https://www.linkedin.com/in/diane-uschner-490a2284/) (Roche), Randomisation Working Group
 
 **Time**: 1st June 2026, 2 pm- 5:30 pm <br/>
 
@@ -53,4 +53,5 @@ Course 2: Designing better trials: Advanced randomization methods for modern cli
 
 **Registration**: 
 Registration for the short course will open with workshop registration.
+
  
