@@ -47,11 +47,12 @@ Course 2: Designing better trials: Advanced randomization methods for modern cli
 
 **Course fees**
 <ul>
-  <li> Registration Fees for a single course: £175   </li>
-  <li> Registration Fees for both courses: £300   </li>
+  <li> Registration Fees for a single course: £100   </li>
+  <li> Registration Fees for both courses: £175   </li>
 </ul>
 
 **Registration**: 
 Registration for the short course will open with workshop registration.
 
  
+
