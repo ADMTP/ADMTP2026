@@ -1,3 +1,4 @@
+
 ---
 title: "Registration"
 output:
@@ -33,7 +34,7 @@ h1.title {
 
 <hr>
 
-Registration for the workshop will start from January 5, 2026.
+Registration for the workshop starts from January 5, 2026. The last date to register will be May 30, 2026.
 
 <br>
 
@@ -41,7 +42,7 @@ Registration for the workshop will start from January 5, 2026.
 
 <hr>
 
-Registration for the conference and short course will start from January 5, 2026. More information will be shared shortly.
+Please follow this [link](https://webstore.ncl.ac.uk/conferences-and-events/faculty-of-medical-sciences/population-and-health-sciences-institute/adaptive-designs-multiple-testing-procedures-workshop-2026) to register for the workshop and courses.
 
 **Conference Registration fees:** 
 <ul>
