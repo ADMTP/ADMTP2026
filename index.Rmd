@@ -51,7 +51,7 @@ h1.title {
 }
 
 .sponsors {
-  text-align: center;
+  text-align: left;
   margin-bottom: 30px;
   background-color: #FFFFFF 
 }
