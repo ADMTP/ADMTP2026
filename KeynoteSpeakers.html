@@ -308,6 +308,103 @@ h1.title {
 <p><img src="KeynoteSpeakers_files/figure-html/setup-1.png" 
       height= "500" 
       style="display:block; margin:auto;" ></p>
+<style>
+.speakers {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;   /* keeps both columns aligned at the top */
+}
+
+.speaker {
+  flex: 1;
+  text-align: justify;
+}
+
+.speaker h3 {
+  color: DarkRed;
+  margin-top: 0;
+}
+
+.speaker .name {
+  font-weight: bold;
+  margin-bottom: 10px;
+  display: block;
+}
+</style>
+<div class="speakers">
+<div class="speaker">
+<h3>
+Keynote talk 1: Optimality, Loss and Stepped-wedge Designs
+</h3>
+<p><span class="name">Prof. Anthony C. Atkinson</span></p>
+<p>The procedures of optimum experimental design provide clear methods
+for the balancing of prognostic factors in sequential clinical trials.
+Different criteria are available if the quantity of interest is (i) all
+the parameters in the model of the responses, or (ii) the two (or more)
+treatment parameters or, (iii) a contrast in the parameters, for example
+the difference between placebo and treatment. However, these rules are
+deterministic. Once the prognostic factors for a new patient are known,
+together with the summary statistics from previous allocations in the
+trial, it is known which treatment will be allocated. Randomization of
+some kind is often needed to reduce selection bias, that is the
+probability of correctly guessing the next treatment to be
+allocated.</p>
+<p>However, randomization introduces a loss in information about the
+values of the parameters, by increasing the variance of the parameter
+estimates. Reduction of selection bias is thus in conflict with
+statistical efficiency. The talk will review the procedures for
+estimating bias and loss for several different allocation rules. In some
+cases there are asymptotic results for these quantities. In other cases
+results are found by simulation. An admissible design, if such exists,
+is one which has the lowest values of both loss and bias (Sverdlov and
+Ryeznik, 2024).</p>
+<p>The procedures of optimal experimental design can be extended to the
+design of stepped-wedge trials. In the original formulation there is a
+single treatment and a placebo; patients are divided into cohorts of the
+same size, each switching from placebo to treatment at a specified
+distinct time point. The talk will describe the application of optimal
+design methods to determine the best size of the cohorts. A sideline of
+the results is the relationship, in this context, between optimal
+designs for all the parameters in the model and for just the treatment
+effects.</p>
+</div>
+<div class="speaker">
+<h3>
+Keynote talk 2: Multiple Questions = Multiple Testing?
+</h3>
+<p><span class="name">Dr. Cornelia Kunz</span></p>
+<p>Controlling the family‑wise error rate (FWER) remains a cornerstone
+requirement for confirmatory Phase 3 clinical trials. This challenge is
+growing as modern development programs increasingly assess multiple
+endpoints, dose levels, or patient subgroups.</p>
+<p>In this work, we focus on a special yet practically relevant
+constellation involving primary and key secondary endpoints: a
+continuous primary endpoint complemented by at least one dichotomized
+version of the same measurement—commonly referred to as a responder
+analysis. In many situations, responder definitions use multiple
+thresholds, which naturally leads to multiple hypothesis tests.</p>
+<p>Additional complexity arises when two continuous endpoints are
+collected and subsequently dichotomized, and the resulting continuous
+and/or dichotomized variables are used as primary and key secondary
+endpoints. In settings with two dichotomized endpoints, we examine the
+important differences between combining the two responder endpoints into
+a single endpoint using a logical AND rule, and treating the two
+responder endpoints as co‑primary endpoints that must both achieve
+statistical significance.</p>
+<p>When combining continuous and dichotomized endpoints derived from the
+same underlying measurements, a key question emerges: Does this scenario
+constitute a true multiple testing problem, and if so, how should it be
+addressed?</p>
+<p>In contrast, when working with two dichotomized endpoints, the
+central question becomes: What are the (potentially subtle) differences
+between analyzing them as a single combined endpoint versus adopting a
+co‑primary testing strategy, and what additional analytical strategies
+might be available? Understanding these distinctions is crucial, as they
+have direct implications for statistical power, clinical
+interpretability, and the control of multiplicity in confirmatory
+development programs.</p>
+</div>
+</div>
 
 
 
